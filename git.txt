@@ -1,1 +1,6 @@
 This is a new file to test if the operations are correct.
+
+
+
+
+New line
